@@ -1,0 +1,1015 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "alignment" : "horizontal",
+                "name" : "surface"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                -9.8000001907348633,
+                0
+              ],
+              "identifier" : "F9610871-0955-494F-A5C3-51D1A281BAB3",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "4A213441-135C-450E-8EF8-1A4EAB267C1D" : null,
+                  "7F5F1ADC-E5E4-4EF5-A5B5-FC43B071FFA5" : null,
+                  "632E476F-1E55-4E30-9723-1C51DD2E8B89" : null,
+                  "6531E64C-9B14-4A27-A33E-1464BFA2AC30" : {
+                    "overrides" : {
+                      "children" : {
+                        "USDScene" : {
+                          "overrides" : {
+                            "arguments" : [
+                              [
+                                "includeSceneScaling",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ],
+                              [
+                                "subpath",
+                                {
+                                  "typeName" : "String",
+                                  "value" : ""
+                                }
+                              ],
+                              [
+                                "url",
+                                {
+                                  "typeName" : "String",
+                                  "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                }
+                              ],
+                              [
+                                "withDescendants",
+                                {
+                                  "typeName" : "Bool",
+                                  "value" : false
+                                }
+                              ]
+                            ],
+                            "children" : {
+                              "_405e1172_36bc_4199_b2b8_f9403f49f9ae" : {
+                                "overrides" : {
+                                  "arguments" : [
+                                    [
+                                      "includeSceneScaling",
+                                      {
+                                        "typeName" : "Bool",
+                                        "value" : false
+                                      }
+                                    ],
+                                    [
+                                      "subpath",
+                                      {
+                                        "typeName" : "String",
+                                        "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae"
+                                      }
+                                    ],
+                                    [
+                                      "url",
+                                      {
+                                        "typeName" : "String",
+                                        "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                      }
+                                    ],
+                                    [
+                                      "withDescendants",
+                                      {
+                                        "typeName" : "Bool",
+                                        "value" : false
+                                      }
+                                    ]
+                                  ],
+                                  "children" : {
+                                    "barbie" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/barbie"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : true
+                                            }
+                                          ]
+                                        ],
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "29984FEB-2393-46C4-ABDC-0743FB52C3A9"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1
+                                        ]
+                                      }
+                                    },
+                                    "Camera" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/Camera"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : true
+                                            }
+                                          ]
+                                        ],
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "B2A9C7BE-2AB6-41C7-B90D-B55488849010"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          0.97341114282608032,
+                                          -1.3038516044616699e-08,
+                                          0.22906501591205597,
+                                          0,
+                                          0.053964495658874512,
+                                          0.97185355424880981,
+                                          -0.2293219119310379,
+                                          0,
+                                          -0.22261764109134674,
+                                          0.23558588325977325,
+                                          0.94601303339004517,
+                                          0,
+                                          -0.2147948145866394,
+                                          0.61841189861297607,
+                                          1.8393582105636597,
+                                          1
+                                        ]
+                                      }
+                                    },
+                                    "candle" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/candle"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : true
+                                            }
+                                          ]
+                                        ],
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "5B3F9C19-A544-417E-AFD2-85D04FB7FF1C"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1
+                                        ]
+                                      }
+                                    },
+                                    "ice_cream" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/ice_cream"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ]
+                                        ],
+                                        "children" : {
+                                          "_4" : {
+                                            "overrides" : {
+                                              "arguments" : [
+                                                [
+                                                  "includeSceneScaling",
+                                                  {
+                                                    "typeName" : "Bool",
+                                                    "value" : false
+                                                  }
+                                                ],
+                                                [
+                                                  "subpath",
+                                                  {
+                                                    "typeName" : "String",
+                                                    "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/ice_cream\/_4"
+                                                  }
+                                                ],
+                                                [
+                                                  "url",
+                                                  {
+                                                    "typeName" : "String",
+                                                    "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                                  }
+                                                ],
+                                                [
+                                                  "withDescendants",
+                                                  {
+                                                    "typeName" : "Bool",
+                                                    "value" : true
+                                                  }
+                                                ]
+                                              ],
+                                              "factory" : {
+                                                "identifier" : "com.apple.af.FileImportAssetFactory",
+                                                "version" : "0.0"
+                                              },
+                                              "runtimeAttributes" : [
+                                                [
+                                                  "RuntimeIdentifier",
+                                                  {
+                                                    "typeName" : "UUID",
+                                                    "value" : "513813F3-F04C-4387-80F5-4E4AABACA1B2"
+                                                  }
+                                                ]
+                                              ]
+                                            },
+                                            "transform" : {
+                                              "matrix" : [
+                                                1,
+                                                0,
+                                                0,
+                                                0,
+                                                0,
+                                                1,
+                                                0,
+                                                0,
+                                                0,
+                                                0,
+                                                1,
+                                                0,
+                                                0,
+                                                -4.2468313949939329e-06,
+                                                0.0012032880913466215,
+                                                1
+                                              ]
+                                            }
+                                          },
+                                          "ice_cream_7" : {
+                                            "overrides" : {
+                                              "arguments" : [
+                                                [
+                                                  "includeSceneScaling",
+                                                  {
+                                                    "typeName" : "Bool",
+                                                    "value" : false
+                                                  }
+                                                ],
+                                                [
+                                                  "subpath",
+                                                  {
+                                                    "typeName" : "String",
+                                                    "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/ice_cream\/ice_cream_7"
+                                                  }
+                                                ],
+                                                [
+                                                  "url",
+                                                  {
+                                                    "typeName" : "String",
+                                                    "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                                  }
+                                                ],
+                                                [
+                                                  "withDescendants",
+                                                  {
+                                                    "typeName" : "Bool",
+                                                    "value" : true
+                                                  }
+                                                ]
+                                              ],
+                                              "factory" : {
+                                                "identifier" : "com.apple.af.FileImportAssetFactory",
+                                                "version" : "0.0"
+                                              },
+                                              "runtimeAttributes" : [
+                                                [
+                                                  "RuntimeIdentifier",
+                                                  {
+                                                    "typeName" : "UUID",
+                                                    "value" : "49D3E3A8-7921-4797-97BF-0303DD374635"
+                                                  }
+                                                ]
+                                              ]
+                                            },
+                                            "transform" : {
+                                              "matrix" : [
+                                                1,
+                                                0,
+                                                0,
+                                                0,
+                                                0,
+                                                1,
+                                                0,
+                                                0,
+                                                0,
+                                                0,
+                                                1,
+                                                0,
+                                                0,
+                                                0,
+                                                0,
+                                                1
+                                              ]
+                                            }
+                                          }
+                                        },
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "B1035ACF-F757-42FA-9BF4-CF01E0E57D93"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1
+                                        ]
+                                      }
+                                    },
+                                    "knot" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/knot"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : true
+                                            }
+                                          ]
+                                        ],
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "91B84E7F-AC4B-4B7B-AB2D-77A9B6776580"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1
+                                        ]
+                                      }
+                                    },
+                                    "portrait" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/portrait"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : true
+                                            }
+                                          ]
+                                        ],
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "620FCA8A-F186-4EDC-8D28-31D97C88E086"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1
+                                        ]
+                                      }
+                                    },
+                                    "swimming_clothe" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/swimming_clothe"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : true
+                                            }
+                                          ]
+                                        ],
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "7433047B-71C4-4426-913B-19C5FF786D40"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1
+                                        ]
+                                      }
+                                    },
+                                    "towel" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/towel"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : true
+                                            }
+                                          ]
+                                        ],
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "51A1F707-1F9B-4684-BAA8-4808E5621B1B"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1
+                                        ]
+                                      }
+                                    },
+                                    "underwear" : {
+                                      "overrides" : {
+                                        "arguments" : [
+                                          [
+                                            "includeSceneScaling",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : false
+                                            }
+                                          ],
+                                          [
+                                            "subpath",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "_405e1172_36bc_4199_b2b8_f9403f49f9ae\/underwear"
+                                            }
+                                          ],
+                                          [
+                                            "url",
+                                            {
+                                              "typeName" : "String",
+                                              "value" : "model:b805f97534c815d5a6be54ef15a9b362\/405e1172-36bc-4199-b2b8-f9403f49f9ae.usdz"
+                                            }
+                                          ],
+                                          [
+                                            "withDescendants",
+                                            {
+                                              "typeName" : "Bool",
+                                              "value" : true
+                                            }
+                                          ]
+                                        ],
+                                        "factory" : {
+                                          "identifier" : "com.apple.af.FileImportAssetFactory",
+                                          "version" : "0.0"
+                                        },
+                                        "runtimeAttributes" : [
+                                          [
+                                            "RuntimeIdentifier",
+                                            {
+                                              "typeName" : "UUID",
+                                              "value" : "B0767F75-E856-4FD1-8A51-EE51C6548A0C"
+                                            }
+                                          ]
+                                        ]
+                                      },
+                                      "transform" : {
+                                        "matrix" : [
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1,
+                                          0,
+                                          0,
+                                          0,
+                                          0,
+                                          1
+                                        ]
+                                      }
+                                    }
+                                  },
+                                  "factory" : {
+                                    "identifier" : "com.apple.af.FileImportAssetFactory",
+                                    "version" : "0.0"
+                                  },
+                                  "runtimeAttributes" : [
+                                    [
+                                      "RuntimeIdentifier",
+                                      {
+                                        "typeName" : "UUID",
+                                        "value" : "C8262FFD-7F15-41A9-8E9F-B7CDF81BA238"
+                                      }
+                                    ]
+                                  ]
+                                },
+                                "transform" : {
+                                  "matrix" : [
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    1,
+                                    0,
+                                    0,
+                                    0,
+                                    0,
+                                    1
+                                  ]
+                                }
+                              }
+                            },
+                            "factory" : {
+                              "identifier" : "com.apple.af.FileImportAssetFactory",
+                              "version" : "0.0"
+                            },
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "0FFD79C8-2F2C-4BAA-8F1D-DF911178C0EB"
+                                }
+                              ]
+                            ]
+                          },
+                          "transform" : {
+                            "matrix" : [
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1,
+                              0,
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.af.Group",
+                        "version" : "0.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "955869E7-F370-4CB6-838A-7702F43C425E"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        -0.30905508995056152,
+                        0.060798760503530502,
+                        9.3132246359317605e-10,
+                        1
+                      ]
+                    }
+                  },
+                  "B91C7CA3-4AB1-4253-9A84-07383168A8A8" : null,
+                  "F3B46F58-C29C-4E57-B7C2-3EB360ECBCE1" : null
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Box",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.84538275003433228,
+                  -5.960465898624534e-08,
+                  0.53416109085083008,
+                  0,
+                  0.16661332547664642,
+                  0.95010966062545776,
+                  -0.26368820667266846,
+                  0,
+                  -0.50751155614852905,
+                  0.31191587448120117,
+                  0.80320638418197632,
+                  0,
+                  -0.53116011619567871,
+                  0.54326498508453369,
+                  0.99184441566467285,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}
